@@ -1,2 +1,2 @@
 # sskosana.github.io
-A South African's developer journey
+A South African developer's career.
